@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/profiles/static/css/main.d116a213.css",
+    "main.js": "/profiles/static/js/main.d2ef4dc5.js",
+    "static/js/787.b7af92ad.chunk.js": "/profiles/static/js/787.b7af92ad.chunk.js",
+    "static/media/siperpus.png": "/profiles/static/media/siperpus.49e7af89cb356606af85.png",
+    "static/media/bg-header.jpg": "/profiles/static/media/bg-header.a3c7e691ce3896d39a2c.jpg",
+    "static/media/omahgaleria.png": "/profiles/static/media/omahgaleria.25a25a9c6fdf44088087.png",
+    "static/media/silo.png": "/profiles/static/media/silo.b4d8bc7b8310acb769f9.png",
+    "static/media/cek-berkas.png": "/profiles/static/media/cek-berkas.0360f613e20a2dd71e74.png",
+    "static/media/sigawat.png": "/profiles/static/media/sigawat.c63125af75684007411f.png",
+    "static/media/irequest.png": "/profiles/static/media/irequest.81dd151c37fa703dd954.png",
+    "static/media/fa-solid-900.ttf": "/profiles/static/media/fa-solid-900.4a2cd718d7031b732e76.ttf",
+    "static/media/profiles.png": "/profiles/static/media/profiles.23df5a08eeed2db3d4b9.png",
+    "static/media/fa-brands-400.ttf": "/profiles/static/media/fa-brands-400.150de8eaa454d669c405.ttf",
+    "static/media/fa-solid-900.woff2": "/profiles/static/media/fa-solid-900.bb975c966c37455a1bc3.woff2",
+    "static/media/fa-brands-400.woff2": "/profiles/static/media/fa-brands-400.e033a13ee751afc1860c.woff2",
+    "static/media/fa-regular-400.ttf": "/profiles/static/media/fa-regular-400.d87474231f4192884802.ttf",
+    "static/media/fa-regular-400.woff2": "/profiles/static/media/fa-regular-400.3223dc79c1adee56370b.woff2",
+    "static/media/fa-v4compatibility.ttf": "/profiles/static/media/fa-v4compatibility.0e3a648be390bd8cb094.ttf",
+    "static/media/fa-v4compatibility.woff2": "/profiles/static/media/fa-v4compatibility.68577e40f3e70067b5da.woff2",
+    "index.html": "/profiles/index.html",
+    "main.d116a213.css.map": "/profiles/static/css/main.d116a213.css.map",
+    "main.d2ef4dc5.js.map": "/profiles/static/js/main.d2ef4dc5.js.map",
+    "787.b7af92ad.chunk.js.map": "/profiles/static/js/787.b7af92ad.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d116a213.css",
+    "static/js/main.d2ef4dc5.js"
+  ]
+}
